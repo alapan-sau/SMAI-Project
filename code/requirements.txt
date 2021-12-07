@@ -1,0 +1,9 @@
+bcolz==1.2.1
+numpy
+pickle
+regex
+torch
+torchoptim
+matplotlib
+csv
+
